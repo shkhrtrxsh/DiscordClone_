@@ -19,8 +19,10 @@ This project is focused solely on replicating the UI and styling of Discord's we
 
 ## Usage
 
-To view the project, simply open the index.html file in your web browser.
+To view the project, simply do npm start on the terminal.
 Contributing
 
 Contributions to this project are not currently being accepted, as this is intended as a personal learning project. However, feel free to use the code as inspiration for your own styling projects.
+
+## Deployment Link
 [Discord Clone](https://shkhrtrxshdiscordclone.netlify.app/)
